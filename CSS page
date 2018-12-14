@@ -1,0 +1,24 @@
+body {
+	margin: 0 auto;
+  	max-width: 50em;
+	font-family: helvetica;
+	background-color:rgb(255, 112, 65);
+
+}
+#header {
+	
+}
+ul {
+	/*background-color: #888;*/
+	border-style:hidden;
+	padding: 2px 4px;
+	line-height: 1.6;
+	border-left: 5px solid blue;
+
+}
+ul li {
+	list-style: none;
+}
+ul li a {
+	color: #3399FF;
+}
