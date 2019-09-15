@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-EN">
+
+<head>
 <link href="Costyle-EN.css" rel="stylesheet"/>
 <meta charset="utf-8">
-<head>
-	<title>Code Solo</title>
+<meta name="viewport" content="device-width, initial-scale= 1.0>
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
 </head>	
 
 <body>
